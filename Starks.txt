@@ -1,10 +1,12 @@
 Starks
-0
-0
-0.0
+1
+1
+-12.3
 1234
 -
+SamCurran1
 -
+12.3
 -
 -
 Added player SamCurran to team
@@ -14,5 +16,7 @@ Added 1000000 to purse
 Removed 100000 from purse
 Removed 900000 from purse
 Log sent to Lesters successfully ..
+Added player SamCurran to team
 -
+0.0
 -
