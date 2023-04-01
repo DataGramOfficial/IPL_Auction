@@ -1,7 +1,7 @@
 Starks
 0
 0
-0.0
+1000000.0
 1234
 -
 -
@@ -10,5 +10,6 @@ Starks
 Added player SamCurran to team
 From Lesters : Hey Hello !
 Removed player SamCurran from team
+Added 1000000 to purse
 -
 -
