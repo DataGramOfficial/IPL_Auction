@@ -9,6 +9,7 @@ Archer1
 12.3
 -
 Trade Lesters Archer for BenStokes
+Trade Lesters Archer for BenStokes
 -
 Added player SamCurran to team
 From Lesters : Hey Hello !
@@ -20,6 +21,7 @@ Log sent to Lesters successfully ..
 Added player SamCurran to team
 Trade request sent to Lesters successfully
 Trade with Lesters completed successfully <-SamCurran ->Archer
+Trade request from Lesters
 Trade request from Lesters
 -
 0.0
