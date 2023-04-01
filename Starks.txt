@@ -2,27 +2,14 @@ Starks
 1
 1
 -12.3
-1234
+4321
 -
 BenStokes1
 -
 12.3
 -
-Trade Lesters Archer for BenStokes
 -
-Added player SamCurran to team
-From Lesters : Hey Hello !
-Removed player SamCurran from team
-Added 1000000 to purse
-Removed 100000 from purse
-Removed 900000 from purse
-Log sent to Lesters successfully ..
-Added player SamCurran to team
-Trade request sent to Lesters successfully
-Trade with Lesters completed successfully <-SamCurran ->Archer
-Trade request from Lesters
-Trade request from Lesters
-Trade with Lesters completed successfully <-Archer ->BenStokes
+Updated team key
 -
 0.0
 -
