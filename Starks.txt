@@ -1,16 +1,14 @@
 Starks
-1
-1
--15.34
+0
+0
+0.0
 1234
 -
-SamCurran1
 -
-15.34
 -
 -
 Added player SamCurran to team
 From Lesters : Hey Hello !
+Removed player SamCurran from team
 -
-0.0
 -
