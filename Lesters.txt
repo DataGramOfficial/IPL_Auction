@@ -1,17 +1,21 @@
 Lesters
-1
-1
--12.2
+2
+2
+-37.54
 1234
 -
 BenStokes1
+Archer1
 -
 12.2
+25.34
 -
 -
 Added player BenStokes to team
 Log sent to Starks successfully ..
 From Starks : PO RA POOKA
+Added player Archer to team
 -
+0.0
 0.0
 -
