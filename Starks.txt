@@ -1,7 +1,7 @@
 Starks
 0
 0
-900000.0
+0.0
 1234
 -
 -
@@ -12,5 +12,6 @@ From Lesters : Hey Hello !
 Removed player SamCurran from team
 Added 1000000 to purse
 Removed 100000 from purse
+Removed 900000 from purse
 -
 -
