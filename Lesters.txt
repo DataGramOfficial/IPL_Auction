@@ -4,7 +4,7 @@ Lesters
 -37.54
 1234
 -
-BenStokes1
+Archer1
 SamCurran1
 -
 12.2
@@ -19,6 +19,7 @@ Trade request from Starks
 Trade with Starks completed successfully <-Archer ->SamCurran
 Trade request sent to Starks successfully
 Trade request sent to Starks successfully
+Trade with Starks completed successfully <-BenStokes ->Archer
 -
 0.0
 0.0
