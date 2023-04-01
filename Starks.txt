@@ -17,6 +17,7 @@ Removed 100000 from purse
 Removed 900000 from purse
 Log sent to Lesters successfully ..
 Added player SamCurran to team
+Trade request sent to Lesters successfully
 -
 0.0
 -
