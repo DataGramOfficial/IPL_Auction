@@ -8,12 +8,10 @@ BenStokes1
 -
 12.3
 -
-Trade Lesters Archer for BenStokes
 -
 Added player SamCurran to team
 From Lesters : Hey Hello !
 Removed player SamCurran from team
-Added 1000000 to purse
 Removed 100000 from purse
 Removed 900000 from purse
 Log sent to Lesters successfully ..
