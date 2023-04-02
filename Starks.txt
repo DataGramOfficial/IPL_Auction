@@ -4,7 +4,7 @@ Starks
 -12.3
 4321
 -
-SamCurran1
+Archer1
 -
 12.3
 -
@@ -13,6 +13,7 @@ Updated team key
 Trade request from Lesters
 Trade with Lesters completed successfully <-BenStokes ->SamCurran
 Trade request sent to Lesters successfully
+Trade with Lesters completed successfully <-SamCurran ->Archer
 -
-44.0
+0.0
 -
