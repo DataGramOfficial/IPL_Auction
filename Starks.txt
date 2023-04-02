@@ -12,6 +12,7 @@ SamCurran1
 Updated team key
 Trade request from Lesters
 Trade with Lesters completed successfully <-BenStokes ->SamCurran
+Trade request sent to Lesters successfully
 -
 44.0
 -
