@@ -15,7 +15,6 @@ Added player BenStokes to team
 Log sent to Starks successfully ..
 From Starks : PO RA POOKA
 Added player Archer to team
-Trade request from Starks
 Trade with Starks completed successfully <-Archer ->SamCurran
 Trade request sent to Starks successfully
 Trade request sent to Starks successfully
