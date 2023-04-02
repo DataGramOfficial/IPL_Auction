@@ -22,5 +22,5 @@ Trade request sent to Starks successfully
 Trade with Starks completed successfully <-BenStokes ->Archer
 -
 20.0
-0.0
+44.0
 -
