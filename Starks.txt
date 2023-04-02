@@ -4,14 +4,14 @@ Starks
 -12.3
 4321
 -
-BenStokes1
+SamCurran1
 -
 12.3
 -
-Trade Lesters BenStokes for SamCurran
 -
 Updated team key
 Trade request from Lesters
+Trade with Lesters completed successfully <-BenStokes ->SamCurran
 -
-0.0
+44.0
 -
