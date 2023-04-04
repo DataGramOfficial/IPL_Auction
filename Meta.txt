@@ -3,7 +3,7 @@ Lesters
 Boosters
 Starks
 %
-0.1
+0.5A
 DataGramOfficial
 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
 https://github.com/DataGramOfficial/IPL_Auction.git
