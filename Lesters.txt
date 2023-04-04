@@ -20,6 +20,6 @@ Added player RashidKhan to team
 -
 44.0
 0.0
-387.5
-250.0
+30.5
+25.5
 -
