@@ -1,0 +1,79 @@
+Jos Buttler
+RR
+	387.5	17	0	0	83	45	9	0.0	0
+2	
+Hardik Pandya
+GT
+	284.5	15	8	76	49	12	4	6.0	0
+3	
+Andre Russell
+KKR
+	281.0	14	17	58	18	32	2	1.5	0
+4	
+Prasidh Krishna
+RR
+	273.0	17	19	200	0	0	2	1.5	0
+5	
+Liam Livingstone
+PBKS
+	265.5	14	6	38	29	34	6	0.0	0
+6	
+Wanindu Hasaranga
+RCB
+	258.0	16	26	143	4	1	3	3.0	0
+7	
+Mohammed Shami
+GT
+	252.5	16	20	172	0	0	3	3.0	0
+8	
+Rashid Khan
+GT
+	250.0	16	19	127	3	9	7	0.0	0
+9	
+Trent Boult
+RR
+	245.5	16	16	176	2	1	2	0.0	0
+10	
+Sanju Samson
+RR
+	244.5	17	0	0	43	26	14	6.0	2
+11	
+Lokesh Rahul
+LSG
+	243.0	15	0	0	45	30	9	3.0	0
+12	
+Ravichandran Ashwin
+RR
+	243.0	17	12	122	14	9	5	0.0	0
+13	
+Kagiso Rabada
+PBKS
+	238.0	13	23	133	5	2	2	0.0	0
+14	
+Umesh Yadav
+KKR
+	235.5	12	16	143	4	4	5	0.0	0
+15	
+Yuzvendra Chahal
+RR
+	234.5	17	27	137	0	0	0	3.0	0
+16	
+Quinton de Kock
+LSG
+	233.5	15	0	0	47	23	12	3.0	1
+17	
+Glenn Maxwell
+RCB
+	231.0	13	6	63	31	15	5	4.5	0
+18	
+Umran Malik
+SR
+	230.5	14	22	141	0	0	5	0.0	0
+19	
+Harshal Patel
+RCB
+	221.0	15	19	130	4	2	3	0.0	0
+20	
+Shardul Thakur
+DC
+	221.0	14	15	109	7	7	7	0.0	0
