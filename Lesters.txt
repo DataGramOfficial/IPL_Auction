@@ -18,8 +18,8 @@ RashidKhan1
 Added player JosButtler to team
 Added player RashidKhan to team
 -
-0.0
-0.0
-0.0
-0.0
+17.0
+10.0
+30.5
+45.0
 -
