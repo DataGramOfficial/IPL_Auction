@@ -21,9 +21,9 @@ Added player JosButtler to team
 Added player RashidKhan to team
 Added player ViratKohli to team
 -
-7.0
+17.0
 10.0
-0.5
+30.5
 45.0
-0.0
+35.0
 -
