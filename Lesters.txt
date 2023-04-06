@@ -22,9 +22,9 @@ Added player RashidKhan to team
 Added player ViratKohli to team
 Changed purse value to 60
 -
-17.0
+25.5
 10.0
-30.5
+41.5
 45.0
 35.0
 -
