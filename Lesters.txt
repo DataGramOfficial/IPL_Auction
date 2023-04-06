@@ -1,7 +1,7 @@
 Lesters
 5
 4
--85.38
+60.0
 1234
 -
 SamCurran1
@@ -20,6 +20,7 @@ ViratKohli0
 Added player JosButtler to team
 Added player RashidKhan to team
 Added player ViratKohli to team
+Changed purse value to 60
 -
 17.0
 10.0
