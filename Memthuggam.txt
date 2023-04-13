@@ -1,7 +1,7 @@
 Memthuggam
-17
-4
-27.699999999999992
+18
+5
+23.89999999999999
 0620
 -
 ShikharDhawan0
@@ -21,6 +21,7 @@ RaviBishnoi0
 RahulChahar0
 ShivamMavi0
 RavichandranAshwin0
+SunilNarine1
 -
 5.75
 7.5
@@ -39,6 +40,7 @@ RavichandranAshwin0
 0.75
 0.2
 3.6
+3.8
 -
 -
 Changed purse value to 95
@@ -59,7 +61,9 @@ Added player RaviBishnoi to team
 Added player RahulChahar to team
 Added player ShivamMavi to team
 Added player RavichandranAshwin to team
+Added player SunilNarine to team
 -
+0.0
 0.0
 0.0
 0.0
