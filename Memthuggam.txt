@@ -1,7 +1,7 @@
 Memthuggam
-13
+14
 4
-35.74999999999999
+32.24999999999999
 0620
 -
 ShikharDhawan0
@@ -17,6 +17,7 @@ MohammedSiraj0
 AnrichNortje1
 KagisoRabada1
 MohammedShami0
+RaviBishnoi0
 -
 5.75
 7.5
@@ -31,6 +32,7 @@ MohammedShami0
 5.0
 5.25
 4.6
+3.5
 -
 -
 Changed purse value to 95
@@ -47,7 +49,9 @@ Added player MohammedSiraj to team
 Added player AnrichNortje to team
 Added player KagisoRabada to team
 Added player MohammedShami to team
+Added player RaviBishnoi to team
 -
+0.0
 0.0
 0.0
 0.0
