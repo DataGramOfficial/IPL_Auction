@@ -1,11 +1,12 @@
 Memthuggam
 0
 0
-0.0
+95.0
 0620
 -
 -
 -
 -
+Changed purse value to 95
 -
 -
