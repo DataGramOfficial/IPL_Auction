@@ -1,7 +1,7 @@
 Memthuggam
-19
-6
-19.09999999999999
+20
+7
+13.09999999999999
 0620
 -
 ShikharDhawan0
@@ -23,6 +23,7 @@ ShivamMavi0
 RavichandranAshwin0
 SunilNarine1
 FafDuplesis1
+JofraArcher1
 -
 5.75
 7.5
@@ -43,6 +44,7 @@ FafDuplesis1
 3.6
 3.8
 4.8
+6.0
 -
 -
 Changed purse value to 95
@@ -65,7 +67,9 @@ Added player ShivamMavi to team
 Added player RavichandranAshwin to team
 Added player SunilNarine to team
 Added player FafDuplesis to team
+Added player JofraArcher to team
 -
+0.0
 0.0
 0.0
 0.0
