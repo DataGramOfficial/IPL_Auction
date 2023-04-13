@@ -1,7 +1,7 @@
 Memthuggam
-10
-2
-50.599999999999994
+11
+3
+45.599999999999994
 0620
 -
 ShikharDhawan0
@@ -14,6 +14,7 @@ WaninduHasaranga1
 AxarPatel0
 ShivamDube0
 MohammedSiraj0
+AnrichNortje1
 -
 5.75
 7.5
@@ -25,6 +26,7 @@ MohammedSiraj0
 4.2
 0.7
 8.75
+5.0
 -
 -
 Changed purse value to 95
@@ -38,7 +40,9 @@ Added player WaninduHasaranga to team
 Added player AxarPatel to team
 Added player ShivamDube to team
 Added player MohammedSiraj to team
+Added player AnrichNortje to team
 -
+0.0
 0.0
 0.0
 0.0
