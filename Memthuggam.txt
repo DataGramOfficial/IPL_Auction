@@ -1,12 +1,16 @@
 Memthuggam
+1
 0
-0
-95.0
+89.25
 0620
 -
+ShikharDhawan0
 -
+5.75
 -
 -
 Changed purse value to 95
+Added player ShikharDhawan to team
 -
+0.0
 -
