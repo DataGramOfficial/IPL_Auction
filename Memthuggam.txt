@@ -1,16 +1,20 @@
 Memthuggam
-1
+2
 0
-89.25
+81.75
 0620
 -
 ShikharDhawan0
+SuryakumarYadav0
 -
 5.75
+7.5
 -
 -
 Changed purse value to 95
 Added player ShikharDhawan to team
+Added player SuryakumarYadav to team
 -
+0.0
 0.0
 -
