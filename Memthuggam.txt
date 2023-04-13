@@ -1,7 +1,7 @@
 Memthuggam
-20
+21
 7
-13.09999999999999
+3.8499999999999908
 0620
 -
 ShikharDhawan0
@@ -24,6 +24,7 @@ RavichandranAshwin0
 SunilNarine1
 FafDuplesis1
 JofraArcher1
+LokeshRahul0
 -
 5.75
 7.5
@@ -45,6 +46,7 @@ JofraArcher1
 3.8
 4.8
 6.0
+9.25
 -
 -
 Changed purse value to 95
@@ -68,7 +70,9 @@ Added player RavichandranAshwin to team
 Added player SunilNarine to team
 Added player FafDuplesis to team
 Added player JofraArcher to team
+Added player LokeshRahul to team
 -
+0.0
 0.0
 0.0
 0.0
