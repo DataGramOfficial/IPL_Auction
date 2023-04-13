@@ -1,7 +1,7 @@
 Memthuggam
-7
+8
 2
-64.25
+60.05
 0620
 -
 ShikharDhawan0
@@ -11,6 +11,7 @@ NitishRana0
 DevonConway1
 MayankAgarwal0
 WaninduHasaranga1
+AxarPatel0
 -
 5.75
 7.5
@@ -19,6 +20,7 @@ WaninduHasaranga1
 0.55
 5.5
 2.2
+4.2
 -
 -
 Changed purse value to 95
@@ -29,7 +31,9 @@ Added player NitishRana to team
 Added player DevonConway to team
 Added player MayankAgarwal to team
 Added player WaninduHasaranga to team
+Added player AxarPatel to team
 -
+0.0
 0.0
 0.0
 0.0
