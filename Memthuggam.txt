@@ -1,7 +1,7 @@
 Memthuggam
-15
+16
 4
-31.499999999999993
+31.299999999999994
 0620
 -
 ShikharDhawan0
@@ -19,6 +19,7 @@ KagisoRabada1
 MohammedShami0
 RaviBishnoi0
 RahulChahar0
+ShivamMavi0
 -
 5.75
 7.5
@@ -35,6 +36,7 @@ RahulChahar0
 4.6
 3.5
 0.75
+0.2
 -
 -
 Changed purse value to 95
@@ -53,7 +55,9 @@ Added player KagisoRabada to team
 Added player MohammedShami to team
 Added player RaviBishnoi to team
 Added player RahulChahar to team
+Added player ShivamMavi to team
 -
+0.0
 0.0
 0.0
 0.0
