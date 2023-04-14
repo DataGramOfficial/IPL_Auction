@@ -1,7 +1,7 @@
 CosmicStrikers
-9
+10
 5
-50.39999999999999
+47.39999999999999
 1234
 -
 DavidWarner1
@@ -13,6 +13,7 @@ YashasviJaiswal0
 RuturajGaikwad0
 NicholasPooran1
 QuintondeKock1
+DineshKarthik0
 -
 7.5
 8.0
@@ -23,6 +24,7 @@ QuintondeKock1
 8.5
 4.2
 3.2
+3.0
 -
 -
 Changed purse value to 95
@@ -35,7 +37,9 @@ Added player YashasviJaiswal to team
 Added player RuturajGaikwad to team
 Added player NicholasPooran to team
 Added player QuintondeKock to team
+Added player DineshKarthik to team
 -
+0.0
 0.0
 0.0
 0.0
