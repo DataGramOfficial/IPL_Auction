@@ -1,7 +1,7 @@
 SuperStallions
-18
+19
 7
-12.450000000000006
+12.250000000000007
 1234
 -
 ViratKohli0
@@ -22,6 +22,7 @@ AbhishekSharma0
 CameronGreen1
 SamCurran1
 ShahbazAhamad0
+AyushBadoni0
 -
 9.25
 5.75
@@ -40,6 +41,7 @@ ShahbazAhamad0
 1.0
 6.75
 10.5
+0.2
 0.2
 -
 -
@@ -62,7 +64,9 @@ Added player AbhishekSharma to team
 Added player CameronGreen to team
 Added player SamCurran to team
 Added player ShahbazAhamad to team
+Added player AyushBadoni to team
 -
+0.0
 0.0
 0.0
 0.0
