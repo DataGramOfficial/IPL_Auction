@@ -1,16 +1,20 @@
 SuperStallions
-1
+2
 0
-85.75
+80.0
 1234
 -
 ViratKohli0
+ShubmanGill0
 -
 9.25
+5.75
 -
 -
 Changed purse value to 95
 Added player ViratKohli to team
+Added player ShubmanGill to team
 -
+0.0
 0.0
 -
