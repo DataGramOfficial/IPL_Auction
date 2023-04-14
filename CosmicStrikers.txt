@@ -1,16 +1,20 @@
 CosmicStrikers
-1
-1
-87.5
+2
+2
+79.5
 1234
 -
 DavidWarner1
+AidenMarkram1
 -
 7.5
+8.0
 -
 -
 Changed purse value to 95
 Added player DavidWarner to team
+Added player AidenMarkram to team
 -
+0.0
 0.0
 -
