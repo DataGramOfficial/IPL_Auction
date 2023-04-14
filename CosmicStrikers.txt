@@ -1,7 +1,7 @@
 CosmicStrikers
-18
+19
 8
-17.39999999999999
+14.999999999999991
 1234
 -
 DavidWarner1
@@ -22,6 +22,7 @@ TrentBoult1
 RashidKhan1
 TimSouthee1
 UmranMalik0
+YuzvendraChahal0
 -
 7.5
 8.0
@@ -41,6 +42,7 @@ UmranMalik0
 4.0
 1.0
 4.8
+2.4
 -
 -
 Changed purse value to 95
@@ -62,7 +64,9 @@ Added player TrentBoult to team
 Added player RashidKhan to team
 Added player TimSouthee to team
 Added player UmranMalik to team
+Added player YuzvendraChahal to team
 -
+0.0
 0.0
 0.0
 0.0
