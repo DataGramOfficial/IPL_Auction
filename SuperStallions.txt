@@ -1,7 +1,7 @@
 SuperStallions
-22
+23
 8
-4.500000000000007
+3.500000000000007
 1234
 -
 ViratKohli0
@@ -26,6 +26,7 @@ AyushBadoni0
 NarayanJagadeeshan0
 HarshalPatel0
 JoshHazlewood1
+ArshdeepSingh0
 -
 9.25
 5.75
@@ -49,6 +50,7 @@ JoshHazlewood1
 1.0
 4.75
 2.0
+1.0
 -
 -
 Changed purse value to 95
@@ -74,7 +76,9 @@ Added player AyushBadoni to team
 Added player NarayanJagadeeshan to team
 Added player HarshalPatel to team
 Added player JoshHazlewood to team
+Added player ArshdeepSingh to team
 -
+0.0
 0.0
 0.0
 0.0
