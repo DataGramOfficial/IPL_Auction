@@ -1,7 +1,7 @@
 SuperStallions
-13
+14
 5
-34.900000000000006
+30.900000000000006
 1234
 -
 ViratKohli0
@@ -17,6 +17,7 @@ AndreRussell1
 JasonHolder1
 ShardulThakur0
 MitchelMarsh1
+KrunalPandya0
 -
 9.25
 5.75
@@ -31,6 +32,7 @@ MitchelMarsh1
 2.2
 2.8
 1.0
+4.0
 -
 -
 Changed purse value to 95
@@ -47,7 +49,9 @@ Added player AndreRussell to team
 Added player JasonHolder to team
 Added player ShardulThakur to team
 Added player MitchelMarsh to team
+Added player KrunalPandya to team
 -
+0.0
 0.0
 0.0
 0.0
