@@ -1,7 +1,7 @@
 CosmicStrikers
-5
+6
 3
-72.3
+66.3
 1234
 -
 DavidWarner1
@@ -9,12 +9,14 @@ AidenMarkram1
 BhanukaRajapaksha1
 RajatPatidar0
 NTilakVarma0
+YashasviJaiswal0
 -
 7.5
 8.0
 1.0
 2.2
 4.0
+6.0
 -
 -
 Changed purse value to 95
@@ -23,7 +25,9 @@ Added player AidenMarkram to team
 Added player BhanukaRajapaksha to team
 Added player RajatPatidar to team
 Added player NTilakVarma to team
+Added player YashasviJaiswal to team
 -
+0.0
 0.0
 0.0
 0.0
