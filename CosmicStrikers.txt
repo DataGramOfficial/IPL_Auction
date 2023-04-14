@@ -1,7 +1,7 @@
 CosmicStrikers
-21
+22
 8
-11.199999999999992
+9.199999999999992
 1234
 -
 DavidWarner1
@@ -25,6 +25,7 @@ UmranMalik0
 YuzvendraChahal0
 AveshKhan0
 MandeepSingh0
+TNatarajan0
 -
 7.5
 8.0
@@ -47,6 +48,7 @@ MandeepSingh0
 2.4
 2.8
 1.0
+2.0
 -
 -
 Changed purse value to 95
@@ -71,7 +73,9 @@ Added player UmranMalik to team
 Added player YuzvendraChahal to team
 Added player AveshKhan to team
 Added player MandeepSingh to team
+Added player TNatarajan to team
 -
+0.0
 0.0
 0.0
 0.0
