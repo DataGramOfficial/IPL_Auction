@@ -1,7 +1,7 @@
 CosmicStrikers
-11
+12
 5
-44.39999999999999
+42.39999999999999
 1234
 -
 DavidWarner1
@@ -15,6 +15,7 @@ NicholasPooran1
 QuintondeKock1
 DineshKarthik0
 WriddhimanSaha0
+DeepakHooda0
 -
 7.5
 8.0
@@ -27,6 +28,7 @@ WriddhimanSaha0
 3.2
 3.0
 3.0
+2.0
 -
 -
 Changed purse value to 95
@@ -41,7 +43,9 @@ Added player NicholasPooran to team
 Added player QuintondeKock to team
 Added player DineshKarthik to team
 Added player WriddhimanSaha to team
+Added player DeepakHooda to team
 -
+0.0
 0.0
 0.0
 0.0
