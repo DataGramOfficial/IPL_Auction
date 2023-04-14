@@ -1,18 +1,20 @@
 SuperStallions
-4
-1
-69.45
+5
+2
+67.85000000000001
 1234
 -
 ViratKohli0
 ShubmanGill0
 KaneWilliamson1
 DevduttPdikkal0
+LiamLivingstone1
 -
 9.25
 5.75
 4.8
 5.75
+1.6
 -
 -
 Changed purse value to 95
@@ -20,7 +22,9 @@ Added player ViratKohli to team
 Added player ShubmanGill to team
 Added player KaneWilliamson to team
 Added player DevduttPdikkal to team
+Added player LiamLivingstone to team
 -
+0.0
 0.0
 0.0
 0.0
