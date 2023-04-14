@@ -1,7 +1,7 @@
 SuperStallions
-8
+9
 2
-48.650000000000006
+46.650000000000006
 1234
 -
 ViratKohli0
@@ -12,6 +12,7 @@ LiamLivingstone1
 IshanKishan0
 SanjuSamson0
 MSDhoni0
+HardikPandya0
 -
 9.25
 5.75
@@ -21,6 +22,7 @@ MSDhoni0
 6.0
 9.0
 4.2
+2.0
 -
 -
 Changed purse value to 95
@@ -32,7 +34,9 @@ Added player LiamLivingstone to team
 Added player IshanKishan to team
 Added player SanjuSamson to team
 Added player MSDhoni to team
+Added player HardikPandya to team
 -
+0.0
 0.0
 0.0
 0.0
