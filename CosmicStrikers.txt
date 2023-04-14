@@ -1,7 +1,7 @@
 CosmicStrikers
-10
+11
 5
-47.39999999999999
+44.39999999999999
 1234
 -
 DavidWarner1
@@ -14,6 +14,7 @@ RuturajGaikwad0
 NicholasPooran1
 QuintondeKock1
 DineshKarthik0
+WriddhimanSaha0
 -
 7.5
 8.0
@@ -24,6 +25,7 @@ DineshKarthik0
 8.5
 4.2
 3.2
+3.0
 3.0
 -
 -
@@ -38,7 +40,9 @@ Added player RuturajGaikwad to team
 Added player NicholasPooran to team
 Added player QuintondeKock to team
 Added player DineshKarthik to team
+Added player WriddhimanSaha to team
 -
+0.0
 0.0
 0.0
 0.0
