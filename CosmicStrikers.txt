@@ -1,7 +1,7 @@
 CosmicStrikers
-23
+24
 8
-6.199999999999992
+3.599999999999992
 1234
 -
 DavidWarner1
@@ -27,6 +27,7 @@ AveshKhan0
 MandeepSingh0
 TNatarajan0
 AmbatiRayudu0
+RiyanParag0
 -
 7.5
 8.0
@@ -51,6 +52,7 @@ AmbatiRayudu0
 1.0
 2.0
 3.0
+2.6
 -
 -
 Changed purse value to 95
@@ -77,7 +79,9 @@ Added player AveshKhan to team
 Added player MandeepSingh to team
 Added player TNatarajan to team
 Added player AmbatiRayudu to team
+Added player RiyanParag to team
 -
+0.0
 0.0
 0.0
 0.0
