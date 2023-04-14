@@ -1,7 +1,7 @@
 SuperStallions
-9
-2
-46.650000000000006
+10
+3
+40.900000000000006
 1234
 -
 ViratKohli0
@@ -13,6 +13,7 @@ IshanKishan0
 SanjuSamson0
 MSDhoni0
 HardikPandya0
+AndreRussell1
 -
 9.25
 5.75
@@ -23,6 +24,7 @@ HardikPandya0
 9.0
 4.2
 2.0
+5.75
 -
 -
 Changed purse value to 95
@@ -35,7 +37,9 @@ Added player IshanKishan to team
 Added player SanjuSamson to team
 Added player MSDhoni to team
 Added player HardikPandya to team
+Added player AndreRussell to team
 -
+0.0
 0.0
 0.0
 0.0
