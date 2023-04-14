@@ -1,7 +1,7 @@
 SuperStallions
-17
+18
 7
-12.650000000000006
+12.450000000000006
 1234
 -
 ViratKohli0
@@ -21,6 +21,7 @@ KrunalPandya0
 AbhishekSharma0
 CameronGreen1
 SamCurran1
+ShahbazAhamad0
 -
 9.25
 5.75
@@ -39,6 +40,7 @@ SamCurran1
 1.0
 6.75
 10.5
+0.2
 -
 -
 Changed purse value to 95
@@ -59,7 +61,9 @@ Added player KrunalPandya to team
 Added player AbhishekSharma to team
 Added player CameronGreen to team
 Added player SamCurran to team
+Added player ShahbazAhamad to team
 -
+0.0
 0.0
 0.0
 0.0
