@@ -1,7 +1,7 @@
 CosmicStrikers
-15
-6
-27.199999999999992
+16
+7
+23.199999999999992
 1234
 -
 DavidWarner1
@@ -19,6 +19,7 @@ DeepakHooda0
 RavindraJadeja0
 WashingtonSundar0
 TrentBoult1
+RashidKhan1
 -
 7.5
 8.0
@@ -35,6 +36,7 @@ TrentBoult1
 9.0
 2.0
 4.2
+4.0
 -
 -
 Changed purse value to 95
@@ -53,7 +55,9 @@ Added player DeepakHooda to team
 Added player RavindraJadeja to team
 Added player WashingtonSundar to team
 Added player TrentBoult to team
+Added player RashidKhan to team
 -
+0.0
 0.0
 0.0
 0.0
