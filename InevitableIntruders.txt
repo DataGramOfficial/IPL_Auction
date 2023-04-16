@@ -1,7 +1,7 @@
 InevitableIntruders
-20
+21
 8
-17.79999999999999
+16.79999999999999
 1234
 -
 RohithSharma0
@@ -24,6 +24,7 @@ SandeepSharma0
 UmeshYadav0
 KarthikTyagi0
 ChetanSakariya0
+SyedKhaleel0
 -
 6.0
 7.75
@@ -44,6 +45,7 @@ ChetanSakariya0
 1.6
 2.2
 0.2
+1.0
 1.0
 -
 -
@@ -68,7 +70,9 @@ Added player SandeepSharma to team
 Added player UmeshYadav to team
 Added player KarthikTyagi to team
 Added player ChetanSakariya to team
+Added player SyedKhaleel to team
 -
+0.0
 0.0
 0.0
 0.0
