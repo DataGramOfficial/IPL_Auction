@@ -1,7 +1,7 @@
 Memthuggam
-24
-7
-6.05
+25
+8
+1.25
 0620
 -
 ShikharDhawan0
@@ -28,6 +28,7 @@ VenkateshIyer0
 MaheeshTheekashana1
 RajavardhanHangargekar0
 PiyushChawla0
+FafduPlesis1
 -
 5.75
 7.5
@@ -53,6 +54,7 @@ PiyushChawla0
 1.0
 0.2
 0.2
+4.8
 -
 -
 Changed purse value to 95
@@ -82,6 +84,7 @@ Added player MaheeshTheekashana to team
 Added player RajavardhanHangargekar to team
 Added player PiyushChawla to team
 Removed player FafDuplesis from team
+Added player FafduPlesis to team
 -
 103.0
 5.0
@@ -107,4 +110,5 @@ Removed player FafDuplesis from team
 0.0
 0.0
 42.0
+0.0
 -
