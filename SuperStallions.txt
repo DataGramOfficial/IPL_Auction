@@ -1,7 +1,7 @@
 SuperStallions
-23
+22
 8
-3.5
+4.5
 1234
 -
 ViratKohli0
@@ -15,18 +15,17 @@ HardikPandya0
 AndreRussell1
 JasonHolder1
 ShardulThakur0
-MitchelMarsh1
 KrunalPandya0
 AbhishekSharma0
 CameronGreen1
 SamCurran1
 ShahbazAhamad0
 AyushBadoni0
-NarayanJagadeeshan0
 HarshalPatel0
 JoshHazlewood1
 ArshdeepSingh0
 DevduttPadikkal0
+MitchellMarsh1
 -
 9.25
 5.75
@@ -39,18 +38,17 @@ DevduttPadikkal0
 5.75
 2.2
 2.8
-1.0
 4.0
 1.0
 6.75
 10.5
 0.2
 0.2
-1.0
 4.75
 2.0
 1.0
 5.75
+1.0
 -
 -
 Changed purse value to 95
@@ -79,6 +77,9 @@ Added player JoshHazlewood to team
 Added player ArshdeepSingh to team
 Removed player DevduttPdikkal from team
 Added player DevduttPadikkal to team
+Removed player MitchelMarsh from team
+Added player MitchellMarsh to team
+Removed player NarayanJagadeeshan from team
 -
 97.5
 76.5
@@ -91,16 +92,15 @@ Added player DevduttPadikkal to team
 31.5
 38.0
 65.0
-0.0
 77.0
 17.0
 33.5
 88.0
 19.0
 19.5
-0.0
 46.5
 0.0
 73.0
+0.0
 0.0
 -
