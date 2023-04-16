@@ -114,5 +114,5 @@ Added player LockieFerguson to team
 50.5
 51.0
 51.5
-0.0
+12.0
 -
