@@ -1,7 +1,7 @@
 InevitableIntruders
-12
-7
-41.99999999999999
+13
+8
+33.99999999999999
 1234
 -
 RohithSharma0
@@ -16,6 +16,7 @@ AbdulSamad0
 RahulTripati0
 JoeRoot1
 HarryBrooks1
+BenStokes1
 -
 6.0
 7.75
@@ -29,6 +30,7 @@ HarryBrooks1
 5.75
 1.0
 7.5
+8.0
 -
 -
 Changed purse value to 95
@@ -44,7 +46,9 @@ Added player AbdulSamad to team
 Added player RahulTripati to team
 Added player JoeRoot to team
 Added player HarryBrooks to team
+Added player BenStokes to team
 -
+0.0
 0.0
 0.0
 0.0
