@@ -1,7 +1,7 @@
 InevitableIntruders
-23
+24
 8
-17.4
+11.399999999999999
 1234
 -
 JosButtler1
@@ -27,6 +27,7 @@ RahulTripathi0
 KuldeepYadav0
 BhuvneshwarKumar0
 LockieFerguson1
+RohitSharma0
 -
 7.75
 1.0
@@ -51,6 +52,7 @@ LockieFerguson1
 3.0
 3.6
 2.2
+6.0
 -
 -
 Changed purse value to 95
@@ -89,6 +91,7 @@ Added player BhuvneshwarKumar to team
 Removed player LokieFerguson from team
 Added player LockieFerguson to team
 Removed player RohithSharma from team
+Added player RohitSharma to team
 -
 85.5
 0.0
@@ -113,4 +116,5 @@ Removed player RohithSharma from team
 51.0
 51.5
 12.0
+0.0
 -
