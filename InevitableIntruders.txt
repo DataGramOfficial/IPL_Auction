@@ -1,7 +1,7 @@
 InevitableIntruders
-24
-8
-11.09999999999999
+23
+7
+18.6
 1234
 -
 RohithSharma0
@@ -15,7 +15,6 @@ LokieFerguson1
 AbdulSamad0
 RahulTripati0
 JoeRoot1
-HarryBrooks1
 BenStokes1
 RahulTewatia0
 DeepakChahar0
@@ -40,7 +39,6 @@ RinkuSingh0
 0.2
 5.75
 1.0
-7.5
 8.0
 1.2
 9.0
@@ -80,6 +78,7 @@ Added player SyedKhaleel to team
 Added player AjinkyaRahane to team
 Added player Kuldeepyadav to team
 Added player RinkuSingh to team
+Removed player HarryBrooks from team
 -
 0.0
 85.5
@@ -90,7 +89,6 @@ Added player RinkuSingh to team
 0.0
 0.0
 18.0
-0.0
 0.0
 0.0
 10.0
