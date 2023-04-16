@@ -1,13 +1,12 @@
 SuperStallions
-23
+22
 8
-3.500000000000007
+9.25
 1234
 -
 ViratKohli0
 ShubmanGill0
 KaneWilliamson1
-DevduttPdikkal0
 LiamLivingstone1
 IshanKishan0
 SanjuSamson0
@@ -31,7 +30,6 @@ ArshdeepSingh0
 9.25
 5.75
 4.8
-5.75
 1.6
 6.0
 9.0
@@ -77,10 +75,10 @@ Added player NarayanJagadeeshan to team
 Added player HarshalPatel to team
 Added player JoshHazlewood to team
 Added player ArshdeepSingh to team
+Removed player DevduttPdikkal from team
 -
 97.5
 76.5
-0.0
 0.0
 0.0
 32.5
