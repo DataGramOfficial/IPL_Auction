@@ -1,23 +1,27 @@
 InevitableIntruders
-3
+4
 2
-80.25
+77.75
 1234
 -
 RohithSharma0
 JosButtler1
 DewaldBrevis1
+KSBharath0
 -
 6.0
 7.75
 1.0
+2.5
 -
 -
 Changed purse value to 95
 Added player RohithSharma to team
 Added player JosButtler to team
 Added player DewaldBrevis to team
+Added player KSBharath to team
 -
+0.0
 0.0
 0.0
 0.0
