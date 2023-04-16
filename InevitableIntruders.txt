@@ -1,7 +1,7 @@
 InevitableIntruders
-10
-5
-50.49999999999999
+11
+6
+49.49999999999999
 1234
 -
 RohithSharma0
@@ -14,6 +14,7 @@ BhuvaneshwarKumar0
 LokieFerguson1
 AbdulSamad0
 RahulTripati0
+JoeRoot1
 -
 6.0
 7.75
@@ -25,6 +26,7 @@ RahulTripati0
 2.2
 0.2
 5.75
+1.0
 -
 -
 Changed purse value to 95
@@ -38,7 +40,9 @@ Added player BhuvaneshwarKumar to team
 Added player LokieFerguson to team
 Added player AbdulSamad to team
 Added player RahulTripati to team
+Added player JoeRoot to team
 -
+0.0
 0.0
 0.0
 0.0
