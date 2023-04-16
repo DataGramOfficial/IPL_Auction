@@ -1,7 +1,7 @@
 InevitableIntruders
-24
+23
 8
-11.4
+15.0
 1234
 -
 RohithSharma0
@@ -10,7 +10,6 @@ DewaldBrevis1
 KSBharath0
 GlennMaxwell1
 MoeenAli1
-BhuvaneshwarKumar0
 LokieFerguson1
 AbdulSamad0
 JoeRoot1
@@ -35,7 +34,6 @@ KuldeepYadav0
 2.5
 8.5
 7.0
-3.6
 2.2
 0.2
 1.0
@@ -86,6 +84,7 @@ Removed player RahulTripati from team
 Added player RahulTripathi to team
 Removed player Kuldeepyadav from team
 Added player KuldeepYadav to team
+Removed player BhuvaneshwarKumar from team
 -
 0.0
 85.5
@@ -93,7 +92,6 @@ Added player KuldeepYadav to team
 0.0
 53.5
 51.5
-0.0
 0.0
 18.0
 0.0
