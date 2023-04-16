@@ -1,16 +1,20 @@
 InevitableIntruders
+2
 1
-0
-89.0
+81.25
 1234
 -
 RohithSharma0
+JosButtler1
 -
 6.0
+7.75
 -
 -
 Changed purse value to 95
 Added player RohithSharma to team
+Added player JosButtler to team
 -
+0.0
 0.0
 -
