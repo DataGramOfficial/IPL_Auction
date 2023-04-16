@@ -88,7 +88,7 @@ Added player RiyanParag to team
 67.0
 72.0
 81.5
-79.0
+81.5
 0.0
 15.0
 52.5
@@ -100,7 +100,7 @@ Added player RiyanParag to team
 19.0
 57.5
 67.0
-34.5
+45.0
 0.0
 40.5
 23.0
