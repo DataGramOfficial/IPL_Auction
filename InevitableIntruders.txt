@@ -1,7 +1,7 @@
 InevitableIntruders
-7
-4
-58.65
+8
+5
+56.449999999999996
 1234
 -
 RohithSharma0
@@ -11,6 +11,7 @@ KSBharath0
 GlennMaxwell1
 MoeenAli1
 BhuvaneshwarKumar0
+LokieFerguson1
 -
 6.0
 7.75
@@ -19,6 +20,7 @@ BhuvaneshwarKumar0
 8.5
 7.0
 3.6
+2.2
 -
 -
 Changed purse value to 95
@@ -29,7 +31,9 @@ Added player KSBharath to team
 Added player GlennMaxwell to team
 Added player MoeenAli to team
 Added player BhuvaneshwarKumar to team
+Added player LokieFerguson to team
 -
+0.0
 0.0
 0.0
 0.0
