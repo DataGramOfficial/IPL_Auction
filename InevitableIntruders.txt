@@ -1,7 +1,7 @@
 InevitableIntruders
-16
+17
 8
-22.79999999999999
+21.19999999999999
 1234
 -
 RohithSharma0
@@ -20,6 +20,7 @@ BenStokes1
 RahulTewatia0
 DeepakChahar0
 MayankMarkande0
+SandeepSharma0
 -
 6.0
 7.75
@@ -37,6 +38,7 @@ MayankMarkande0
 1.2
 9.0
 1.0
+1.6
 -
 -
 Changed purse value to 95
@@ -56,7 +58,9 @@ Added player BenStokes to team
 Added player RahulTewatia to team
 Added player DeepakChahar to team
 Added player MayankMarkande to team
+Added player SandeepSharma to team
 -
+0.0
 0.0
 0.0
 0.0
