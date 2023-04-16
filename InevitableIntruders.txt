@@ -1,10 +1,9 @@
 InevitableIntruders
-24
+23
 8
-11.399999999999999
+17.4
 1234
 -
-RohithSharma0
 JosButtler1
 DewaldBrevis1
 KSBharath0
@@ -29,7 +28,6 @@ KuldeepYadav0
 BhuvneshwarKumar0
 LockieFerguson1
 -
-6.0
 7.75
 1.0
 2.5
@@ -90,8 +88,8 @@ Removed player BhuvaneshwarKumar from team
 Added player BhuvneshwarKumar to team
 Removed player LokieFerguson from team
 Added player LockieFerguson to team
+Removed player RohithSharma from team
 -
-0.0
 85.5
 0.0
 0.0
