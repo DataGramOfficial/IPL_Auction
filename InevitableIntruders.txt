@@ -1,7 +1,7 @@
 InevitableIntruders
-17
+18
 8
-21.19999999999999
+18.99999999999999
 1234
 -
 RohithSharma0
@@ -21,6 +21,7 @@ RahulTewatia0
 DeepakChahar0
 MayankMarkande0
 SandeepSharma0
+UmeshYadav0
 -
 6.0
 7.75
@@ -39,6 +40,7 @@ SandeepSharma0
 9.0
 1.0
 1.6
+2.2
 -
 -
 Changed purse value to 95
@@ -59,7 +61,9 @@ Added player RahulTewatia to team
 Added player DeepakChahar to team
 Added player MayankMarkande to team
 Added player SandeepSharma to team
+Added player UmeshYadav to team
 -
+0.0
 0.0
 0.0
 0.0
