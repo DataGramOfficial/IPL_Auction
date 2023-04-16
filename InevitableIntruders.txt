@@ -1,7 +1,7 @@
 InevitableIntruders
-23
+24
 8
-12.69999999999999
+11.09999999999999
 1234
 -
 RohithSharma0
@@ -27,6 +27,7 @@ ChetanSakariya0
 SyedKhaleel0
 AjinkyaRahane0
 Kuldeepyadav0
+RinkuSingh0
 -
 6.0
 7.75
@@ -51,6 +52,7 @@ Kuldeepyadav0
 1.0
 1.1
 3.0
+1.6
 -
 -
 Changed purse value to 95
@@ -77,7 +79,9 @@ Added player ChetanSakariya to team
 Added player SyedKhaleel to team
 Added player AjinkyaRahane to team
 Added player Kuldeepyadav to team
+Added player RinkuSingh to team
 -
+0.0
 0.0
 0.0
 0.0
