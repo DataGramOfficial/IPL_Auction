@@ -1,7 +1,7 @@
 InevitableIntruders
-23
+24
 8
-14.4
+11.4
 1234
 -
 RohithSharma0
@@ -27,6 +27,7 @@ AjinkyaRahane0
 RinkuSingh0
 HarryBrook1
 RahulTripathi0
+KuldeepYadav0
 -
 6.0
 7.75
@@ -51,6 +52,7 @@ RahulTripathi0
 1.6
 7.2
 5.75
+3.0
 -
 -
 Changed purse value to 95
@@ -83,6 +85,7 @@ Added player HarryBrook to team
 Removed player RahulTripati from team
 Added player RahulTripathi to team
 Removed player Kuldeepyadav from team
+Added player KuldeepYadav to team
 -
 0.0
 85.5
@@ -107,4 +110,5 @@ Removed player Kuldeepyadav from team
 65.5
 50.5
 50.5
+0.0
 -
