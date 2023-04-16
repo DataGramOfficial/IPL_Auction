@@ -1,7 +1,7 @@
 SuperStallions
-22
-7
-4.5
+23
+8
+3.5
 1234
 -
 ViratKohli0
@@ -26,6 +26,7 @@ HarshalPatel0
 JoshHazlewood1
 ArshdeepSingh0
 DevduttPadikkal0
+MitchellMarsh1
 -
 9.25
 5.75
@@ -49,6 +50,7 @@ DevduttPadikkal0
 2.0
 1.0
 5.75
+1.0
 -
 -
 Changed purse value to 95
@@ -78,6 +80,7 @@ Added player ArshdeepSingh to team
 Removed player DevduttPdikkal from team
 Added player DevduttPadikkal to team
 Removed player MitchelMarsh from team
+Added player MitchellMarsh to team
 -
 97.5
 76.5
@@ -100,5 +103,6 @@ Removed player MitchelMarsh from team
 46.5
 0.0
 73.0
+0.0
 0.0
 -
