@@ -1,12 +1,11 @@
 CosmicStrikers
-24
-8
-3.599999999999992
+23
+7
+4.6
 1234
 -
 DavidWarner1
 AidenMarkram1
-BhanukaRajapaksha1
 RajatPatidar0
 NTilakVarma0
 YashasviJaiswal0
@@ -31,7 +30,6 @@ RiyanParag0
 -
 7.5
 8.0
-1.0
 2.2
 4.0
 6.0
@@ -80,10 +78,10 @@ Added player MandeepSingh to team
 Added player TNatarajan to team
 Added player AmbatiRayudu to team
 Added player RiyanParag to team
+Removed player BhanukaRajapaksha from team
 -
 82.5
 50.0
-0.0
 0.0
 67.0
 72.0
