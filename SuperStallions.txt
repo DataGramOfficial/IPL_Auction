@@ -1,7 +1,7 @@
 SuperStallions
-22
+21
 8
-3.7
+4.7
 1234
 -
 ViratKohli0
@@ -25,7 +25,6 @@ JoshHazlewood1
 ArshdeepSingh0
 DevduttPadikkal0
 MitchellMarsh1
-NarayanJagadeesan0
 -
 9.25
 5.75
@@ -47,7 +46,6 @@ NarayanJagadeesan0
 2.0
 1.0
 5.75
-1.0
 1.0
 -
 -
@@ -82,6 +80,7 @@ Added player MitchellMarsh to team
 Removed player NarayanJagadeeshan from team
 Added player NarayanJagadeesan to team
 Removed player ShahbazAhamad from team
+Removed player NarayanJagadeesan from team
 -
 97.5
 76.5
@@ -104,5 +103,4 @@ Removed player ShahbazAhamad from team
 73.0
 15.0
 22.0
-21.0
 -
