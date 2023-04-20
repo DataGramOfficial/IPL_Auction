@@ -1,7 +1,7 @@
 CosmicStrikers
-24
+23
 8
-3.5999999999999996
+4.6
 1234
 -
 DavidWarner1
@@ -23,7 +23,6 @@ TimSouthee1
 UmranMalik0
 YuzvendraChahal0
 AveshKhan0
-MandeepSingh0
 TNatarajan0
 AmbatiRayudu0
 RiyanParag0
@@ -48,7 +47,6 @@ BhanukaRajapaksa1
 4.8
 2.4
 2.8
-1.0
 2.0
 3.0
 2.6
@@ -82,6 +80,7 @@ Added player AmbatiRayudu to team
 Added player RiyanParag to team
 Removed player BhanukaRajapaksha from team
 Added player BhanukaRajapaksa to team
+Removed player MandeepSingh from team
 -
 82.5
 50.0
@@ -102,7 +101,6 @@ Added player BhanukaRajapaksa to team
 57.5
 67.0
 45.0
-0.0
 40.5
 23.0
 14.5
