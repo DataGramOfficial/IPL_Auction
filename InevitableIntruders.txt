@@ -1,12 +1,11 @@
 InevitableIntruders
-21
+20
 8
-17.1
+19.6
 1234
 -
 JosButtler1
 DewaldBrevis1
-KSBharath0
 GlennMaxwell1
 MoeenAli1
 AbdulSamad0
@@ -28,7 +27,6 @@ RohitSharma0
 -
 7.75
 1.0
-2.5
 8.5
 7.0
 0.2
@@ -89,9 +87,9 @@ Added player RohitSharma to team
 Removed player RinkuSingh from team
 Removed player AjinkyaRahane from team
 Removed player KuldeepYadav from team
+Removed player KSBharath from team
 -
 85.5
-0.0
 0.0
 53.5
 51.5
