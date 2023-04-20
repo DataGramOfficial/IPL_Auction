@@ -1,7 +1,7 @@
 InevitableIntruders
-24
+23
 8
-11.399999999999999
+13.0
 1234
 -
 JosButtler1
@@ -21,7 +21,6 @@ KarthikTyagi0
 ChetanSakariya0
 SyedKhaleel0
 AjinkyaRahane0
-RinkuSingh0
 HarryBrook1
 RahulTripathi0
 KuldeepYadav0
@@ -46,7 +45,6 @@ RohitSharma0
 1.0
 1.0
 1.1
-1.6
 7.2
 5.75
 3.0
@@ -92,6 +90,7 @@ Removed player LokieFerguson from team
 Added player LockieFerguson to team
 Removed player RohithSharma from team
 Added player RohitSharma to team
+Removed player RinkuSingh from team
 -
 85.5
 0.0
@@ -110,7 +109,6 @@ Added player RohitSharma to team
 17.5
 37.5
 39.0
-65.5
 50.5
 50.5
 51.0
