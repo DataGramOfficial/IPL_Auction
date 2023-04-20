@@ -1,7 +1,7 @@
 Memthuggam
-23
+22
 8
-2.65
+2.85
 0620
 -
 ShikharDhawan0
@@ -25,7 +25,6 @@ SunilNarine1
 JofraArcher1
 LokeshRahul0
 MaheeshTheekshana1
-RajvardhanHangargekar0
 FafduPlessis1
 -
 5.75
@@ -49,7 +48,6 @@ FafduPlessis1
 6.0
 9.25
 1.0
-0.2
 4.8
 -
 -
@@ -89,6 +87,7 @@ Removed player FafduPlesis from team
 Added player FafduPlessis to team
 Removed player VenkateshIyer from team
 Removed player PiyushChawla from team
+Removed player RajvardhanHangargekar from team
 -
 103.0
 5.0
@@ -111,6 +110,5 @@ Removed player PiyushChawla from team
 10.0
 47.0
 5.5
-24.5
 91.5
 -
