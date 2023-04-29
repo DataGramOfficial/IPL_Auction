@@ -1,7 +1,7 @@
 CosmicStrikers
-20
+19
 8
-14.200000000000001
+14.4
 1234
 -
 DavidWarner1
@@ -23,7 +23,6 @@ UmranMalik0
 YuzvendraChahal0
 AveshKhan0
 BhanukaRajapaksa1
-TNatarajan0
 -
 7.5
 8.0
@@ -44,7 +43,6 @@ TNatarajan0
 2.4
 2.8
 1.0
-0.2
 -
 -
 Changed purse value to 95
@@ -80,6 +78,7 @@ Removed player AmbatiRayudu from team
 Removed player RiyanParag from team
 Removed player RajatPatidar from team
 Added player TNatarajan to team
+Removed player TNatarajan from team
 -
 112.5
 70.5
@@ -100,5 +99,4 @@ Added player TNatarajan to team
 78.5
 76.0
 22.0
-0.0
 -
