@@ -1,12 +1,11 @@
 SuperStallions
 20
-8
-4.9
+7
+9.5
 1234
 -
 ViratKohli0
 ShubmanGill0
-KaneWilliamson1
 LiamLivingstone1
 IshanKishan0
 SanjuSamson0
@@ -24,10 +23,10 @@ JoshHazlewood1
 ArshdeepSingh0
 DevduttPadikkal0
 MitchellMarsh1
+AyushBadoni0
 -
 9.25
 5.75
-4.8
 1.6
 6.0
 9.0
@@ -45,6 +44,7 @@ MitchellMarsh1
 1.0
 5.75
 1.0
+0.2
 -
 -
 Changed purse value to 95
@@ -80,10 +80,11 @@ Added player NarayanJagadeesan to team
 Removed player ShahbazAhamad from team
 Removed player NarayanJagadeesan from team
 Removed player AyushBadoni from team
+Removed player KaneWilliamson from team
+Added player AyushBadoni to team
 -
 116.0
 92.5
-0.0
 0.0
 81.0
 82.0
@@ -101,4 +102,5 @@ Removed player AyushBadoni from team
 84.5
 39.5
 26.5
+0.0
 -
