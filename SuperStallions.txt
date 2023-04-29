@@ -1,12 +1,11 @@
 SuperStallions
-20
-8
-4.9
+19
+7
+9.7
 1234
 -
 ViratKohli0
 ShubmanGill0
-KaneWilliamson1
 LiamLivingstone1
 IshanKishan0
 SanjuSamson0
@@ -27,7 +26,6 @@ MitchellMarsh1
 -
 9.25
 5.75
-4.8
 1.6
 6.0
 9.0
@@ -80,10 +78,10 @@ Added player NarayanJagadeesan to team
 Removed player ShahbazAhamad from team
 Removed player NarayanJagadeesan from team
 Removed player AyushBadoni from team
+Removed player KaneWilliamson from team
 -
 116.0
 92.5
-0.0
 0.0
 81.0
 82.0
