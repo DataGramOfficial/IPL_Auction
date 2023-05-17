@@ -83,24 +83,24 @@ Added player TNatarajan to team
 Removed player TNatarajan from team
 Added player TNatarajan to team
 -
-142.0
-94.0
+170.5
+110.0
 130.0
-295.5
-183.5
-123.5
-28.0
+300.5
+188.5
+150.0
+53.5
 78.0
-137.0
-28.5
-191.0
+139.5
+31.0
+201.0
 67.0
 153.0
-189.0
+269.0
 19.0
 74.0
-160.0
-88.5
+164.0
+94.0
 22.0
-93.0
+111.0
 -
