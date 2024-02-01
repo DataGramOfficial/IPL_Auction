@@ -2,7 +2,7 @@ SuperStallions
 20
 7
 9.5
-12345
+1234
 -
 ViratKohli0
 ShubmanGill0
@@ -82,6 +82,7 @@ Removed player NarayanJagadeesan from team
 Removed player AyushBadoni from team
 Removed player KaneWilliamson from team
 Added player AyushBadoni to team
+Updated team key
 Updated team key
 -
 251.0
